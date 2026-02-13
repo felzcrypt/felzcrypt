@@ -1,12 +1,10 @@
 # Olá, me chamo Felz 👾
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Aqui você encontrará projetos que refletem meu interesse por IA, Automação, Desenvolvimento de Software, Integração de Sistemas e CyberSecurity.
+Bem-vindo ao meu perfil no GitHub! Sou dev Java, curto desenvolvimento backend e integração de sistemas.
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando em um projeto de carreira, mas sem muitos detalhes por enquanto...
-- 🌱 Estou aprendendo mais sobre integração de sistemas e automação web com Selenium.
-- 💬 Adoro conversar sobre ideias de negócios e preparar fluxos.
+- ☕ Estudando Java
 - 📫 Onde me encontrar:
 <div style="display: inline_block"><br/>
   <a href="https://www.instagram.com/felz.db/">
@@ -28,6 +26,8 @@ Estou sempre aberto a ideias e futuros projetos para desenvolvimento. Sinta-se a
 ## Habilidades
 
 <div style="display: inline_block"><br/>
+  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,9 +41,3 @@ Estou sempre aberto a ideias e futuros projetos para desenvolvimento. Sinta-se a
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felzdb&show_icons=true&theme=radical)
-
-Obrigado por visitar meu perfil!
